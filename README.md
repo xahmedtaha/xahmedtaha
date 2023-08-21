@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahmedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="xahmedtaha" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [xahmedtaha.me](xahmedtaha.me/projects)
+- 👨‍💻 All of my projects are available at [xahmedtaha.me](https://xahmedtaha.me/projects)
 
-- 📝 I regularly write articles on [xahmedtaha.me/articles](xahmedtaha.me/articles)
+- 📝 I regularly write articles on [xahmedtaha.me](https://xahmedtaha.me/articles)
 
 - 📫 How to reach me **xahmedtaha930@gmail.com**
 
