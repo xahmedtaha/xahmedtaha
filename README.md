@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahmedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="xahmedtaha" /> </p>
 
-
-- 👨‍💻 All of my projects are available at [ahmedtaha.tech](https://ahmedtaha.tech/projects)
-
-- 📝 I regularly write articles on [ahmedtaha.tech](https://ahmedtaha.tech/articles)
-
 - 📫 How to reach me **xahmedtaha930@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
