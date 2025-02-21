@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
+<p align="left">
+ Dedicated Full Stack Developer with a passion for enhancing systems and creating innovative solutions. With +2
+ years of experience of building and maintaining critical web applications and mobile apps. Proficient in Laravel,
+ PHP, Vue.js, Ionic, and AWS. Experienced in maintaining and upgrading complex legacy codebases for various
+ projects. Skilled in improving backend architecture and developing APIs for seamless data consumption
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahmedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="xahmedtaha" /> </p>
 
 - 📫 How to reach me **xahmedtaha930@gmail.com**
